@@ -1,0 +1,40 @@
+name: BukkitArc
+version: 1.0
+author: Agentred100
+main: me.agent.BukkitArc.BukkitArc
+commands:
+  greylist:
+    description: Greylist command
+  graylist:
+    description: Graylist command
+  help:
+    description: Arcane help
+  restart:
+    description: Staff command
+  map:
+    description: Display the dynmap link
+  username:
+    description: Display your username!
+  list:
+    description: Display a list of online users.
+  apply:
+    description: Display the application link.
+  forum:
+    description: Display the forum link.
+  mumble:
+    description: Display the mumble link.
+  dclem:
+    description: Dclem's command
+  bbycake:
+    description: bbycake
+  bby:
+    description: bby
+  one:
+    description: One
+  two:
+    description: Two
+    
+permissions:
+  new:
+    description: Arcane 'new' permission
+    default: true
